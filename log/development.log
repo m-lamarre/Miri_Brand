@@ -1,0 +1,1349 @@
+Started GET "/" for 127.0.0.1 at 2018-04-05 10:37:23 +0200
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/miriamlamarre/.rvm/gems/ruby-2.5.0/gems/railties-5.1.6/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/miriamlamarre/.rvm/gems/ruby-2.5.0/gems/railties-5.1.6/lib/rails/templates/rails/welcome/index.html.erb (2.6ms)
+Completed 200 OK in 667ms (Views: 40.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-05 13:16:19 +0200
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/miriamlamarre/.rvm/gems/ruby-2.5.0/gems/railties-5.1.6/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/miriamlamarre/.rvm/gems/ruby-2.5.0/gems/railties-5.1.6/lib/rails/templates/rails/welcome/index.html.erb (4.3ms)
+Completed 200 OK in 4846ms (Views: 118.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-05 13:41:36 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (168.8ms)
+Completed 200 OK in 2905ms (Views: 2544.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-05 13:57:20 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (19.8ms)
+Completed 200 OK in 1385ms (Views: 947.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-05 14:16:23 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (9.2ms)
+Completed 200 OK in 288ms (Views: 282.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-05 14:18:12 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (3.7ms)
+Completed 200 OK in 75ms (Views: 73.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-05 15:53:29 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (61.6ms)
+Completed 200 OK in 13103ms (Views: 12633.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-06 09:09:31 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (25.5ms)
+Completed 500 Internal Server Error in 8217ms
+
+
+  
+ActionView::Template::Error (File to import not found or unreadable: motion-ui/motion-ui.
+Load paths:
+  /Users/miriamlamarre/Desktop/miri_app/app/assets/config
+  /Users/miriamlamarre/Desktop/miri_app/app/assets/fonts
+  /Users/miriamlamarre/Desktop/miri_app/app/assets/images
+  /Users/miriamlamarre/Desktop/miri_app/app/assets/javascripts
+  /Users/miriamlamarre/Desktop/miri_app/app/assets/stylesheets
+  /Users/miriamlamarre/.rvm/rubies/ruby-2.5.0/lib/ruby/gems/2.5.0/gems/coffee-rails-4.2.2/lib/assets/javascripts
+  /Users/miriamlamarre/.rvm/gems/ruby-2.5.0/gems/foundation-rails-5.4.5.0/vendor/assets/javascripts
+  /Users/miriamlamarre/.rvm/gems/ruby-2.5.0/gems/foundation-rails-5.4.5.0/vendor/assets/stylesheets
+  /Users/miriamlamarre/.rvm/gems/ruby-2.5.0/gems/actioncable-5.1.6/lib/assets/compiled
+  /Users/miriamlamarre/.rvm/gems/ruby-2.5.0/gems/actionview-5.1.6/lib/assets/compiled
+  /Users/miriamlamarre/.rvm/rubies/ruby-2.5.0/lib/ruby/gems/2.5.0/gems/turbolinks-source-5.1.0/lib/assets/javascripts
+  /Users/miriamlamarre/Desktop/miri_app/node_modules):
+     6:     meta name='viewport' content='width=device-width, initial-scale=1.0'
+     7: 
+     8: 
+     9:     = stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload'
+    10:     = javascript_include_tag 'vendor/modernizr', 'data-turbolinks-track': 'reload'
+    11:     = csrf_meta_tag
+    12: 
+  
+app/assets/stylesheets/application.sass:20
+app/views/layouts/application.html.slim:9:in `_app_views_layouts_application_html_slim__4454742961828426471_70347287028540'
+Started GET "/" for 127.0.0.1 at 2018-04-06 09:10:08 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (2.4ms)
+Completed 200 OK in 21231ms (Views: 21228.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-06 09:23:52 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (2.0ms)
+Completed 200 OK in 9585ms (Views: 9582.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-06 09:24:23 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (2.4ms)
+Completed 200 OK in 9130ms (Views: 9127.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-06 09:24:42 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (2.4ms)
+Completed 200 OK in 9295ms (Views: 9293.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-06 09:26:15 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (2.7ms)
+Completed 200 OK in 9333ms (Views: 9331.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-06 09:27:02 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (2.1ms)
+Completed 200 OK in 18761ms (Views: 18759.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-06 09:27:53 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (25.1ms)
+Completed 200 OK in 1424ms (Views: 929.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-06 09:28:48 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (2.0ms)
+Completed 500 Internal Server Error in 9340ms
+
+
+  
+ActionView::Template::Error (Undefined variable: "$warning-color".):
+     6:     meta name='viewport' content='width=device-width, initial-scale=1.0'
+     7: 
+     8: 
+     9:     = stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload'
+    10:     = javascript_include_tag 'vendor/modernizr', 'data-turbolinks-track': 'reload'
+    11:     = csrf_meta_tag
+    12: 
+  
+app/assets/stylesheets/index.sass:11
+app/views/layouts/application.html.slim:9:in `_app_views_layouts_application_html_slim___2125811486002624906_70355196987760'
+Started GET "/" for 127.0.0.1 at 2018-04-06 09:34:56 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (3.1ms)
+Completed 500 Internal Server Error in 9192ms
+
+
+  
+ActionView::Template::Error (Invalid CSS after "...y: rem-calc(10)": expected "{", was ";"):
+     6:     meta name='viewport' content='width=device-width, initial-scale=1.0'
+     7: 
+     8: 
+     9:     = stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload'
+    10:     = javascript_include_tag 'vendor/modernizr', 'data-turbolinks-track': 'reload'
+    11:     = csrf_meta_tag
+    12: 
+  
+app/assets/stylesheets/foundation_and_overrides.scss:428
+app/views/layouts/application.html.slim:9:in `_app_views_layouts_application_html_slim___2125811486002624906_70355277430840'
+Started GET "/" for 127.0.0.1 at 2018-04-06 09:43:49 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (2.7ms)
+Completed 500 Internal Server Error in 25632ms
+
+
+  
+ActionView::Template::Error (Undefined variable: "$warning-color".):
+     6:     meta name='viewport' content='width=device-width, initial-scale=1.0'
+     7: 
+     8: 
+     9:     = stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload'
+    10:     = javascript_include_tag 'vendor/modernizr', 'data-turbolinks-track': 'reload'
+    11:     = csrf_meta_tag
+    12: 
+  
+app/assets/stylesheets/main/_main.sass:7
+app/views/layouts/application.html.slim:9:in `_app_views_layouts_application_html_slim___2125811486002624906_70355216177820'
+Started GET "/" for 127.0.0.1 at 2018-04-06 09:51:30 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (18.7ms)
+Completed 500 Internal Server Error in 413ms
+
+
+  
+ActionView::Template::Error (File to import not found or unreadable: ./foundationand_overrides.scss.
+Load paths:
+  /Users/miriamlamarre/Desktop/miri_app/app/assets/config
+  /Users/miriamlamarre/Desktop/miri_app/app/assets/fonts
+  /Users/miriamlamarre/Desktop/miri_app/app/assets/images
+  /Users/miriamlamarre/Desktop/miri_app/app/assets/javascripts
+  /Users/miriamlamarre/Desktop/miri_app/app/assets/stylesheets
+  /Users/miriamlamarre/.rvm/rubies/ruby-2.5.0/lib/ruby/gems/2.5.0/gems/coffee-rails-4.2.2/lib/assets/javascripts
+  /Users/miriamlamarre/.rvm/gems/ruby-2.5.0/gems/foundation-rails-5.4.5.0/vendor/assets/javascripts
+  /Users/miriamlamarre/.rvm/gems/ruby-2.5.0/gems/foundation-rails-5.4.5.0/vendor/assets/stylesheets
+  /Users/miriamlamarre/.rvm/gems/ruby-2.5.0/gems/actioncable-5.1.6/lib/assets/compiled
+  /Users/miriamlamarre/.rvm/gems/ruby-2.5.0/gems/actionview-5.1.6/lib/assets/compiled
+  /Users/miriamlamarre/.rvm/rubies/ruby-2.5.0/lib/ruby/gems/2.5.0/gems/turbolinks-source-5.1.0/lib/assets/javascripts
+  /Users/miriamlamarre/Desktop/miri_app/node_modules):
+     6:     meta name='viewport' content='width=device-width, initial-scale=1.0'
+     7: 
+     8: 
+     9:     = stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload'
+    10:     = javascript_include_tag 'vendor/modernizr', 'data-turbolinks-track': 'reload'
+    11:     = csrf_meta_tag
+    12: 
+  
+app/assets/stylesheets/application.sass:19
+app/views/layouts/application.html.slim:9:in `_app_views_layouts_application_html_slim___2125811486002624906_70355225436180'
+Started GET "/" for 127.0.0.1 at 2018-04-06 09:52:04 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (2.9ms)
+Completed 200 OK in 34986ms (Views: 34983.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-06 10:18:45 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (14.6ms)
+Completed 500 Internal Server Error in 12444ms
+
+
+  
+ActionView::Template::Error (Undefined variable: "$warning-color".):
+     6:     meta name='viewport' content='width=device-width, initial-scale=1.0'
+     7: 
+     8: 
+     9:     = stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload'
+    10:     = javascript_include_tag 'vendor/modernizr', 'data-turbolinks-track': 'reload'
+    11:     = csrf_meta_tag
+    12: 
+  
+app/assets/stylesheets/main/_main.sass:9
+app/views/layouts/application.html.slim:9:in `_app_views_layouts_application_html_slim___2125811486002624906_70355198003600'
+Started GET "/" for 127.0.0.1 at 2018-04-06 10:19:07 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (2.1ms)
+Completed 500 Internal Server Error in 21355ms
+
+
+  
+ActionView::Template::Error (Undefined variable: "$warning-color".):
+     6:     meta name='viewport' content='width=device-width, initial-scale=1.0'
+     7: 
+     8: 
+     9:     = stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload'
+    10:     = javascript_include_tag 'vendor/modernizr', 'data-turbolinks-track': 'reload'
+    11:     = csrf_meta_tag
+    12: 
+  
+app/assets/stylesheets/main/_main.sass:9
+app/views/layouts/application.html.slim:9:in `_app_views_layouts_application_html_slim___2125811486002624906_70355241971140'
+Started GET "/" for 127.0.0.1 at 2018-04-06 10:25:10 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (32.0ms)
+Completed 500 Internal Server Error in 1132ms
+
+
+  
+ActionView::Template::Error (Undefined variable: "$warning-color".):
+     6:     meta name='viewport' content='width=device-width, initial-scale=1.0'
+     7: 
+     8: 
+     9:     = stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload'
+    10:     = javascript_include_tag 'vendor/modernizr', 'data-turbolinks-track': 'reload'
+    11:     = csrf_meta_tag
+    12: 
+  
+app/assets/stylesheets/main/_main.sass:9
+app/views/layouts/application.html.slim:9:in `_app_views_layouts_application_html_slim__3901863596278748622_70322075289900'
+Started GET "/" for 127.0.0.1 at 2018-04-06 10:25:19 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (2.2ms)
+Completed 200 OK in 40929ms (Views: 40926.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-06 10:27:26 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (14.1ms)
+Completed 200 OK in 45475ms (Views: 45465.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-06 16:37:49 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (20.1ms)
+Completed 500 Internal Server Error in 15902ms
+
+
+  
+ActionView::Template::Error (File to import not found or unreadable: index.
+Load paths:
+  /Users/miriamlamarre/Desktop/miri_app/app/assets/config
+  /Users/miriamlamarre/Desktop/miri_app/app/assets/fonts
+  /Users/miriamlamarre/Desktop/miri_app/app/assets/images
+  /Users/miriamlamarre/Desktop/miri_app/app/assets/javascripts
+  /Users/miriamlamarre/Desktop/miri_app/app/assets/stylesheets
+  /Users/miriamlamarre/.rvm/rubies/ruby-2.5.0/lib/ruby/gems/2.5.0/gems/coffee-rails-4.2.2/lib/assets/javascripts
+  /Users/miriamlamarre/.rvm/gems/ruby-2.5.0/gems/foundation-rails-5.4.5.0/vendor/assets/javascripts
+  /Users/miriamlamarre/.rvm/gems/ruby-2.5.0/gems/foundation-rails-5.4.5.0/vendor/assets/stylesheets
+  /Users/miriamlamarre/.rvm/gems/ruby-2.5.0/gems/actioncable-5.1.6/lib/assets/compiled
+  /Users/miriamlamarre/.rvm/gems/ruby-2.5.0/gems/actionview-5.1.6/lib/assets/compiled
+  /Users/miriamlamarre/.rvm/rubies/ruby-2.5.0/lib/ruby/gems/2.5.0/gems/turbolinks-source-5.1.0/lib/assets/javascripts
+  /Users/miriamlamarre/Desktop/miri_app/node_modules):
+     5:     meta charset='utf-8'
+     6:     meta name='viewport' content='width=device-width, initial-scale=1.0'
+     7: 
+     8:     = stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload'
+     9:     = javascript_include_tag 'vendor/modernizr', 'data-turbolinks-track': 'reload'
+    10:     = csrf_meta_tag
+    11: 
+  
+app/assets/stylesheets/application.sass:22
+app/views/layouts/application.html.slim:8:in `_app_views_layouts_application_html_slim__83744659017203018_70181729790780'
+Started GET "/" for 127.0.0.1 at 2018-04-06 16:49:25 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (15.1ms)
+Completed 500 Internal Server Error in 17958ms
+
+
+  
+ActionView::Template::Error (Invalid variable: "$2xl-gap:   42px".):
+     5:     meta charset='utf-8'
+     6:     meta name='viewport' content='width=device-width, initial-scale=1.0'
+     7: 
+     8:     = stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload'
+     9:     = javascript_include_tag 'vendor/modernizr', 'data-turbolinks-track': 'reload'
+    10:     = csrf_meta_tag
+    11: 
+  
+app/assets/stylesheets/main/_main.sass:24
+app/assets/stylesheets/application.sass:22
+app/views/layouts/application.html.slim:8:in `_app_views_layouts_application_html_slim__83744659017203018_70181831826740'
+Started GET "/" for 127.0.0.1 at 2018-04-06 16:51:35 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (125.9ms)
+Completed 500 Internal Server Error in 54744ms
+
+
+  
+ActionView::Template::Error (Undefined variable: "$warning-color".):
+     5:     meta charset='utf-8'
+     6:     meta name='viewport' content='width=device-width, initial-scale=1.0'
+     7: 
+     8:     = stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload'
+     9:     = javascript_include_tag 'vendor/modernizr', 'data-turbolinks-track': 'reload'
+    10:     = csrf_meta_tag
+    11: 
+  
+app/assets/stylesheets/sections/index.sass:9
+app/views/layouts/application.html.slim:8:in `_app_views_layouts_application_html_slim__83744659017203018_70181598792060'
+Started GET "/" for 127.0.0.1 at 2018-04-06 16:57:53 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (8.4ms)
+Started GET "/" for 127.0.0.1 at 2018-04-06 16:58:38 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (2.2ms)
+Completed 200 OK in 90746ms (Views: 90736.4ms)
+
+
+Completed 200 OK in 45140ms (Views: 45137.7ms)
+
+
+Started GET "/favicon-32x32.png" for 127.0.0.1 at 2018-04-06 16:59:29 +0200
+  
+ActionController::RoutingError (No route matches [GET] "/favicon-32x32.png"):
+  
+actionpack (5.1.6) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.6) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.6) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.6) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.6) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.6) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.6) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.6) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.6) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.6) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.4) lib/rack/method_override.rb:22:in `call'
+rack (2.0.4) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.6) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.6) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.6) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.4) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.6) lib/rails/engine.rb:522:in `call'
+puma (3.11.3) lib/puma/configuration.rb:225:in `call'
+puma (3.11.3) lib/puma/server.rb:624:in `handle_request'
+puma (3.11.3) lib/puma/server.rb:438:in `process_client'
+puma (3.11.3) lib/puma/server.rb:302:in `block in run'
+puma (3.11.3) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/favicon-16x16.png" for 127.0.0.1 at 2018-04-06 16:59:33 +0200
+  
+ActionController::RoutingError (No route matches [GET] "/favicon-16x16.png"):
+  
+actionpack (5.1.6) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.6) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.6) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.6) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.6) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.6) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.6) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.6) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.6) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.6) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.4) lib/rack/method_override.rb:22:in `call'
+rack (2.0.4) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.6) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.6) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.6) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.4) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.6) lib/rails/engine.rb:522:in `call'
+puma (3.11.3) lib/puma/configuration.rb:225:in `call'
+puma (3.11.3) lib/puma/server.rb:624:in `handle_request'
+puma (3.11.3) lib/puma/server.rb:438:in `process_client'
+puma (3.11.3) lib/puma/server.rb:302:in `block in run'
+puma (3.11.3) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/favicon-96x96.png" for 127.0.0.1 at 2018-04-06 16:59:35 +0200
+  
+ActionController::RoutingError (No route matches [GET] "/favicon-96x96.png"):
+  
+actionpack (5.1.6) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.6) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.6) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.6) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.6) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.6) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.6) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.6) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.6) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.6) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.4) lib/rack/method_override.rb:22:in `call'
+rack (2.0.4) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.6) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.6) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.6) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.4) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.6) lib/rails/engine.rb:522:in `call'
+puma (3.11.3) lib/puma/configuration.rb:225:in `call'
+puma (3.11.3) lib/puma/server.rb:624:in `handle_request'
+puma (3.11.3) lib/puma/server.rb:438:in `process_client'
+puma (3.11.3) lib/puma/server.rb:302:in `block in run'
+puma (3.11.3) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/android-icon-192x192.png" for 127.0.0.1 at 2018-04-06 16:59:38 +0200
+  
+ActionController::RoutingError (No route matches [GET] "/android-icon-192x192.png"):
+  
+actionpack (5.1.6) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.6) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.6) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.6) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.6) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.6) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.6) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.6) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.6) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.6) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.4) lib/rack/method_override.rb:22:in `call'
+rack (2.0.4) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.6) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.6) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.6) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.4) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.6) lib/rails/engine.rb:522:in `call'
+puma (3.11.3) lib/puma/configuration.rb:225:in `call'
+puma (3.11.3) lib/puma/server.rb:624:in `handle_request'
+puma (3.11.3) lib/puma/server.rb:438:in `process_client'
+puma (3.11.3) lib/puma/server.rb:302:in `block in run'
+puma (3.11.3) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/" for 127.0.0.1 at 2018-04-06 17:01:02 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (9.9ms)
+Completed 200 OK in 46861ms (Views: 46853.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-06 17:03:14 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (18.3ms)
+Completed 200 OK in 51449ms (Views: 51440.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-06 17:07:17 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (25.0ms)
+Completed 200 OK in 44909ms (Views: 44359.2ms)
+
+
+  
+ActionController::RoutingError (No route matches [GET] "/assets/images/favicon-32x32.png"):
+  
+actionpack (5.1.6) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.6) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.6) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.6) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.6) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.6) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.6) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.6) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:11:in `block in call'
+activesupport (5.1.6) lib/active_support/logger_silence.rb:20:in `silence'
+activesupport (5.1.6) lib/active_support/logger.rb:63:in `block (3 levels) in broadcast'
+activesupport (5.1.6) lib/active_support/logger_silence.rb:20:in `silence'
+activesupport (5.1.6) lib/active_support/logger.rb:61:in `block (2 levels) in broadcast'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:11:in `call'
+actionpack (5.1.6) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.6) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.4) lib/rack/method_override.rb:22:in `call'
+rack (2.0.4) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.6) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.6) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.6) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.4) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.6) lib/rails/engine.rb:522:in `call'
+puma (3.11.3) lib/puma/configuration.rb:225:in `call'
+puma (3.11.3) lib/puma/server.rb:624:in `handle_request'
+puma (3.11.3) lib/puma/server.rb:438:in `process_client'
+puma (3.11.3) lib/puma/server.rb:302:in `block in run'
+puma (3.11.3) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+  
+ActionController::RoutingError (No route matches [GET] "/assets/images/favicon-16x16.png"):
+  
+actionpack (5.1.6) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.6) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.6) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.6) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.6) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.6) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.6) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.6) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:11:in `block in call'
+activesupport (5.1.6) lib/active_support/logger_silence.rb:20:in `silence'
+activesupport (5.1.6) lib/active_support/logger.rb:63:in `block (3 levels) in broadcast'
+activesupport (5.1.6) lib/active_support/logger_silence.rb:20:in `silence'
+activesupport (5.1.6) lib/active_support/logger.rb:61:in `block (2 levels) in broadcast'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:11:in `call'
+actionpack (5.1.6) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.6) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.4) lib/rack/method_override.rb:22:in `call'
+rack (2.0.4) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.6) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.6) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.6) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.4) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.6) lib/rails/engine.rb:522:in `call'
+puma (3.11.3) lib/puma/configuration.rb:225:in `call'
+puma (3.11.3) lib/puma/server.rb:624:in `handle_request'
+puma (3.11.3) lib/puma/server.rb:438:in `process_client'
+puma (3.11.3) lib/puma/server.rb:302:in `block in run'
+puma (3.11.3) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+  
+ActionController::RoutingError (No route matches [GET] "/assets/images/favicon-96x96.png"):
+  
+actionpack (5.1.6) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.6) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.6) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.6) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.6) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.6) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.6) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.6) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:11:in `block in call'
+activesupport (5.1.6) lib/active_support/logger_silence.rb:20:in `silence'
+activesupport (5.1.6) lib/active_support/logger.rb:63:in `block (3 levels) in broadcast'
+activesupport (5.1.6) lib/active_support/logger_silence.rb:20:in `silence'
+activesupport (5.1.6) lib/active_support/logger.rb:61:in `block (2 levels) in broadcast'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:11:in `call'
+actionpack (5.1.6) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.6) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.4) lib/rack/method_override.rb:22:in `call'
+rack (2.0.4) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.6) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.6) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.6) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.4) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.6) lib/rails/engine.rb:522:in `call'
+puma (3.11.3) lib/puma/configuration.rb:225:in `call'
+puma (3.11.3) lib/puma/server.rb:624:in `handle_request'
+puma (3.11.3) lib/puma/server.rb:438:in `process_client'
+puma (3.11.3) lib/puma/server.rb:302:in `block in run'
+puma (3.11.3) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/" for 127.0.0.1 at 2018-04-06 17:10:34 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (3.0ms)
+Completed 200 OK in 34077ms (Views: 34074.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-17 10:11:18 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (56.1ms)
+Completed 500 Internal Server Error in 2028ms
+
+
+  
+ActionView::Template::Error (Expected attribute
+  /Users/miriamlamarre/Desktop/miri_app/app/views/layouts/application.html.slim, Line 12, Column 85
+    link[rel="shortcut icon" type="image/x-icon" sizes="32x32" href="<%= image_path("favicon-32x32.png")"]
+                                                                                     ^
+):
+     9:     = javascript_include_tag 'vendor/modernizr', 'data-turbolinks-track': 'reload'
+    10:     = csrf_meta_tag
+    11: 
+    12:     link[rel="shortcut icon" type="image/x-icon" sizes="32x32" href="<%= image_path("favicon-32x32.png")"]
+    13:     link[rel="shortcut icon" type="image/x-icon" sizes="32x32" href="<%= image_path("favicon-96x96.png")"]
+    14:     link[rel="shortcut icon" type="image/x-icon" sizes="32x32" href="<%= image_path("favicon-16x16.png")"]
+    15: 
+  
+app/views/layouts/application.html.slim:12
+Started GET "/" for 127.0.0.1 at 2018-04-17 10:13:47 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (2.9ms)
+Completed 200 OK in 69346ms (Views: 69343.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-17 10:15:55 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (3.4ms)
+Completed 500 Internal Server Error in 26718ms
+
+
+  
+ActionView::Template::Error (Undefined variable: "$primary-color".):
+     5:     meta charset='utf-8'
+     6:     meta name='viewport' content='width=device-width, initial-scale=1.0'
+     7: 
+     8:     = stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload'
+     9:     = javascript_include_tag 'vendor/modernizr', 'data-turbolinks-track': 'reload'
+    10:     = csrf_meta_tag
+    11: 
+  
+app/assets/stylesheets/main/_main.sass:14
+app/views/layouts/application.html.slim:8:in `_app_views_layouts_application_html_slim___2653601344720169588_70352771156640'
+Started GET "/" for 127.0.0.1 at 2018-04-17 10:17:25 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (7.6ms)
+Completed 200 OK in 35168ms (Views: 35162.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-17 10:25:01 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (8.4ms)
+Completed 200 OK in 36577ms (Views: 36573.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-17 10:42:20 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (13.8ms)
+  Rendered header_and_footer/_header.html.slim (5.2ms)
+  Rendered header_and_footer/_footer.html.slim (6.2ms)
+Completed 200 OK in 594ms (Views: 584.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-17 10:51:13 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (13.8ms)
+  Rendered application/_header.html.slim (15.5ms)
+  Rendered application/_footer.html.slim (6.8ms)
+Completed 200 OK in 1792ms (Views: 1732.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-17 10:59:37 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (15.6ms)
+  Rendered application/_header.html.slim (14.5ms)
+  Rendered application/_footer.html.slim (5.0ms)
+Completed 200 OK in 510ms (Views: 501.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-17 11:00:12 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (4.9ms)
+  Rendered application/_header.html.slim (8.3ms)
+  Rendered application/_footer.html.slim (2.5ms)
+Completed 200 OK in 389ms (Views: 386.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-17 11:00:29 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (7.7ms)
+  Rendered application/_header.html.slim (4.2ms)
+  Rendered application/_footer.html.slim (3.5ms)
+Completed 200 OK in 239ms (Views: 234.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-17 11:01:46 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (3.2ms)
+  Rendered application/_header.html.slim (2.2ms)
+  Rendered application/_footer.html.slim (1.7ms)
+Completed 200 OK in 46327ms (Views: 46324.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-17 11:07:36 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (8.4ms)
+Completed 500 Internal Server Error in 30401ms
+
+
+  
+ActionView::Template::Error (Undefined variable: "$primary-color".):
+     5:     meta charset='utf-8'
+     6:     meta name='viewport' content='width=device-width, initial-scale=1.0'
+     7: 
+     8:     = stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload'
+     9:     = javascript_include_tag 'vendor/modernizr', 'data-turbolinks-track': 'reload'
+    10:     = csrf_meta_tag
+    11: 
+  
+app/assets/stylesheets/main/_main.sass:9
+app/views/layouts/application.html.slim:8:in `_app_views_layouts_application_html_slim___2653601344720169588_70352508719200'
+Started GET "/" for 127.0.0.1 at 2018-04-17 11:09:26 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (2.6ms)
+  Rendered application/_header.html.slim (2.0ms)
+  Rendered application/_footer.html.slim (1.7ms)
+Completed 200 OK in 44955ms (Views: 44952.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-17 11:12:18 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (8.5ms)
+  Rendered application/_header.html.slim (1.8ms)
+  Rendered application/_footer.html.slim (1.9ms)
+Completed 200 OK in 46145ms (Views: 46138.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-17 11:17:42 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (13.7ms)
+  Rendered application/_header.html.slim (3.1ms)
+  Rendered application/_footer.html.slim (3.7ms)
+Completed 200 OK in 426ms (Views: 409.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-17 11:18:17 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (2.8ms)
+  Rendered application/_header.html.slim (3.8ms)
+  Rendered application/_footer.html.slim (2.7ms)
+Completed 200 OK in 1242ms (Views: 1240.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-17 11:18:29 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (2.6ms)
+  Rendered application/_header.html.slim (4.0ms)
+  Rendered application/_footer.html.slim (3.4ms)
+Completed 200 OK in 564ms (Views: 560.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-17 11:18:45 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (2.4ms)
+  Rendered application/_header.html.slim (11.4ms)
+  Rendered application/_footer.html.slim (7.8ms)
+Completed 200 OK in 1302ms (Views: 1300.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-17 11:18:56 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (5.1ms)
+  Rendered application/_header.html.slim (3.5ms)
+  Rendered application/_footer.html.slim (5.0ms)
+Completed 200 OK in 368ms (Views: 362.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-17 11:22:38 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (10.4ms)
+  Rendered application/_header.html.slim (4.4ms)
+  Rendered application/_footer.html.slim (3.3ms)
+Completed 200 OK in 512ms (Views: 505.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-17 11:22:52 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (3.4ms)
+  Rendered application/_header.html.slim (2.8ms)
+  Rendered application/_footer.html.slim (3.4ms)
+Completed 200 OK in 195ms (Views: 192.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-17 11:23:28 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (2.8ms)
+Completed 500 Internal Server Error in 26523ms
+
+
+  
+ActionView::Template::Error (An @import loop has been found:
+    /Users/miriamlamarre/Desktop/miri_app/app/assets/stylesheets/application.sass imports /Users/miriamlamarre/Desktop/miri_app/app/assets/stylesheets/main/_main.sass
+    /Users/miriamlamarre/Desktop/miri_app/app/assets/stylesheets/main/_main.sass imports /Users/miriamlamarre/Desktop/miri_app/app/assets/stylesheets/application.sass):
+     5:     meta charset='utf-8'
+     6:     meta name='viewport' content='width=device-width, initial-scale=1.0'
+     7: 
+     8:     = stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload'
+     9:     = javascript_include_tag 'vendor/modernizr', 'data-turbolinks-track': 'reload'
+    10:     = csrf_meta_tag
+    11: 
+  
+app/assets/stylesheets/main/_main.sass:2
+app/assets/stylesheets/application.sass:22
+app/views/layouts/application.html.slim:8:in `_app_views_layouts_application_html_slim___2653601344720169588_70352722779360'
+Started GET "/" for 127.0.0.1 at 2018-04-17 11:25:31 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (10.9ms)
+  Rendered application/_header.html.slim (2.1ms)
+  Rendered application/_footer.html.slim (2.0ms)
+Completed 200 OK in 62235ms (Views: 62229.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-17 11:27:50 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (6.9ms)
+Completed 500 Internal Server Error in 74184ms
+
+
+  
+ActionView::Template::Error (Undefined variable: "$gap-10xl".):
+     5:     meta charset='utf-8'
+     6:     meta name='viewport' content='width=device-width, initial-scale=1.0'
+     7: 
+     8:     = stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload'
+     9:     = javascript_include_tag 'vendor/modernizr', 'data-turbolinks-track': 'reload'
+    10:     = csrf_meta_tag
+    11: 
+  
+app/assets/stylesheets/sections/_index.sass:11
+app/views/layouts/application.html.slim:8:in `_app_views_layouts_application_html_slim___2653601344720169588_70352612173560'
+Started GET "/" for 127.0.0.1 at 2018-04-17 11:29:53 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (8.0ms)
+  Rendered application/_header.html.slim (7.5ms)
+  Rendered application/_footer.html.slim (3.5ms)
+Completed 200 OK in 133950ms (Views: 133943.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-17 11:41:12 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (19.4ms)
+  Rendered application/_header.html.slim (2.9ms)
+  Rendered application/_footer.html.slim (9.3ms)
+Completed 200 OK in 139026ms (Views: 138998.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-17 11:48:03 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (110.8ms)
+  Rendered application/_header.html.slim (2.7ms)
+  Rendered application/_footer.html.slim (2.6ms)
+Completed 200 OK in 1443ms (Views: 1435.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-17 12:05:27 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (26.7ms)
+  Rendered application/_header.html.slim (2.0ms)
+  Rendered application/_footer.html.slim (2.1ms)
+Completed 200 OK in 84133ms (Views: 84127.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-17 12:12:03 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (11.2ms)
+Completed 500 Internal Server Error in 461ms
+
+
+  
+ActionView::Template::Error (couldn't find file 'main' with type 'text/css'
+Checked in these paths: 
+  /Users/miriamlamarre/Desktop/miri_app/app/assets/config
+  /Users/miriamlamarre/Desktop/miri_app/app/assets/fonts
+  /Users/miriamlamarre/Desktop/miri_app/app/assets/images
+  /Users/miriamlamarre/Desktop/miri_app/app/assets/javascripts
+  /Users/miriamlamarre/Desktop/miri_app/app/assets/stylesheets
+  /Users/miriamlamarre/.rvm/gems/ruby-2.5.1/gems/coffee-rails-4.2.2/lib/assets/javascripts
+  /Users/miriamlamarre/.rvm/gems/ruby-2.5.1/gems/foundation-rails-5.4.5.0/vendor/assets/javascripts
+  /Users/miriamlamarre/.rvm/gems/ruby-2.5.1/gems/foundation-rails-5.4.5.0/vendor/assets/stylesheets
+  /Users/miriamlamarre/.rvm/gems/ruby-2.5.1/gems/actioncable-5.1.6/lib/assets/compiled
+  /Users/miriamlamarre/.rvm/gems/ruby-2.5.1/gems/actionview-5.1.6/lib/assets/compiled
+  /Users/miriamlamarre/.rvm/gems/ruby-2.5.1/gems/turbolinks-source-5.1.0/lib/assets/javascripts
+  /Users/miriamlamarre/Desktop/miri_app/node_modules):
+     5:     meta charset='utf-8'
+     6:     meta name='viewport' content='width=device-width, initial-scale=1.0'
+     7: 
+     8:     = stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload'
+     9:     = javascript_include_tag 'vendor/modernizr', 'data-turbolinks-track': 'reload'
+    10:     = csrf_meta_tag
+    11: 
+  
+app/assets/stylesheets/application.sass:18
+app/views/layouts/application.html.slim:8:in `_app_views_layouts_application_html_slim___2653601344720169588_70352405296820'
+Started GET "/" for 127.0.0.1 at 2018-04-17 12:12:08 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (2.7ms)
+Completed 500 Internal Server Error in 25ms
+
+
+  
+ActionView::Template::Error (couldn't find file 'main' with type 'text/css'
+Checked in these paths: 
+  /Users/miriamlamarre/Desktop/miri_app/app/assets/config
+  /Users/miriamlamarre/Desktop/miri_app/app/assets/fonts
+  /Users/miriamlamarre/Desktop/miri_app/app/assets/images
+  /Users/miriamlamarre/Desktop/miri_app/app/assets/javascripts
+  /Users/miriamlamarre/Desktop/miri_app/app/assets/stylesheets
+  /Users/miriamlamarre/.rvm/gems/ruby-2.5.1/gems/coffee-rails-4.2.2/lib/assets/javascripts
+  /Users/miriamlamarre/.rvm/gems/ruby-2.5.1/gems/foundation-rails-5.4.5.0/vendor/assets/javascripts
+  /Users/miriamlamarre/.rvm/gems/ruby-2.5.1/gems/foundation-rails-5.4.5.0/vendor/assets/stylesheets
+  /Users/miriamlamarre/.rvm/gems/ruby-2.5.1/gems/actioncable-5.1.6/lib/assets/compiled
+  /Users/miriamlamarre/.rvm/gems/ruby-2.5.1/gems/actionview-5.1.6/lib/assets/compiled
+  /Users/miriamlamarre/.rvm/gems/ruby-2.5.1/gems/turbolinks-source-5.1.0/lib/assets/javascripts
+  /Users/miriamlamarre/Desktop/miri_app/node_modules):
+     5:     meta charset='utf-8'
+     6:     meta name='viewport' content='width=device-width, initial-scale=1.0'
+     7: 
+     8:     = stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload'
+     9:     = javascript_include_tag 'vendor/modernizr', 'data-turbolinks-track': 'reload'
+    10:     = csrf_meta_tag
+    11: 
+  
+app/assets/stylesheets/application.sass:18
+app/views/layouts/application.html.slim:8:in `_app_views_layouts_application_html_slim___2653601344720169588_70352399123940'
+Started GET "/" for 127.0.0.1 at 2018-04-17 12:12:57 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (4.5ms)
+Completed 500 Internal Server Error in 519ms
+
+
+  
+ActionView::Template::Error (Undefined variable: "$primary-color".):
+     5:     meta charset='utf-8'
+     6:     meta name='viewport' content='width=device-width, initial-scale=1.0'
+     7: 
+     8:     = stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload'
+     9:     = javascript_include_tag 'vendor/modernizr', 'data-turbolinks-track': 'reload'
+    10:     = csrf_meta_tag
+    11: 
+  
+app/assets/stylesheets/_main.sass:15
+app/assets/stylesheets/application.sass:22
+app/views/layouts/application.html.slim:8:in `_app_views_layouts_application_html_slim___2653601344720169588_70352546662720'
+Started GET "/" for 127.0.0.1 at 2018-04-17 12:16:06 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (51.7ms)
+Completed 500 Internal Server Error in 21316ms
+
+
+  
+ActionView::Template::Error (Undefined variable: "$primary-color".):
+     5:     meta charset='utf-8'
+     6:     meta name='viewport' content='width=device-width, initial-scale=1.0'
+     7: 
+     8:     = stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload'
+     9:     = javascript_include_tag 'vendor/modernizr', 'data-turbolinks-track': 'reload'
+    10:     = csrf_meta_tag
+    11: 
+  
+app/assets/stylesheets/_main.sass:15
+app/views/layouts/application.html.slim:8:in `_app_views_layouts_application_html_slim___2653601344720169588_70352586508460'
+Started GET "/" for 127.0.0.1 at 2018-04-17 12:25:35 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (8.1ms)
+Completed 500 Internal Server Error in 459ms
+
+
+  
+ActionView::Template::Error (couldn't find file 'sections/index' with type 'text/css'
+Checked in these paths: 
+  /Users/miriamlamarre/Desktop/miri_app/app/assets/config
+  /Users/miriamlamarre/Desktop/miri_app/app/assets/fonts
+  /Users/miriamlamarre/Desktop/miri_app/app/assets/images
+  /Users/miriamlamarre/Desktop/miri_app/app/assets/javascripts
+  /Users/miriamlamarre/Desktop/miri_app/app/assets/stylesheets
+  /Users/miriamlamarre/.rvm/gems/ruby-2.5.1/gems/coffee-rails-4.2.2/lib/assets/javascripts
+  /Users/miriamlamarre/.rvm/gems/ruby-2.5.1/gems/foundation-rails-5.4.5.0/vendor/assets/javascripts
+  /Users/miriamlamarre/.rvm/gems/ruby-2.5.1/gems/foundation-rails-5.4.5.0/vendor/assets/stylesheets
+  /Users/miriamlamarre/.rvm/gems/ruby-2.5.1/gems/actioncable-5.1.6/lib/assets/compiled
+  /Users/miriamlamarre/.rvm/gems/ruby-2.5.1/gems/actionview-5.1.6/lib/assets/compiled
+  /Users/miriamlamarre/.rvm/gems/ruby-2.5.1/gems/turbolinks-source-5.1.0/lib/assets/javascripts
+  /Users/miriamlamarre/Desktop/miri_app/node_modules):
+     5:     meta charset='utf-8'
+     6:     meta name='viewport' content='width=device-width, initial-scale=1.0'
+     7: 
+     8:     = stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload'
+     9:     = javascript_include_tag 'vendor/modernizr', 'data-turbolinks-track': 'reload'
+    10:     = csrf_meta_tag
+    11: 
+  
+app/assets/stylesheets/application.sass:18
+app/views/layouts/application.html.slim:8:in `_app_views_layouts_application_html_slim___2653601344720169588_70352699913280'
+Started GET "/" for 127.0.0.1 at 2018-04-17 12:26:06 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (2.5ms)
+Completed 500 Internal Server Error in 135ms
+
+
+  
+ActionView::Template::Error (Undefined variable: "$primary-color".):
+     5:     meta charset='utf-8'
+     6:     meta name='viewport' content='width=device-width, initial-scale=1.0'
+     7: 
+     8:     = stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload'
+     9:     = javascript_include_tag 'vendor/modernizr', 'data-turbolinks-track': 'reload'
+    10:     = csrf_meta_tag
+    11: 
+  
+app/assets/stylesheets/application.sass:39
+app/views/layouts/application.html.slim:8:in `_app_views_layouts_application_html_slim___2653601344720169588_70352760659360'
+Started GET "/" for 127.0.0.1 at 2018-04-17 12:27:00 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (2.8ms)
+Completed 500 Internal Server Error in 10713ms
+
+
+  
+ActionView::Template::Error (Undefined variable: "$h1-font-size".):
+     5:     meta charset='utf-8'
+     6:     meta name='viewport' content='width=device-width, initial-scale=1.0'
+     7: 
+     8:     = stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload'
+     9:     = javascript_include_tag 'vendor/modernizr', 'data-turbolinks-track': 'reload'
+    10:     = csrf_meta_tag
+    11: 
+  
+app/assets/stylesheets/sections/_index.sass:5
+app/views/layouts/application.html.slim:8:in `_app_views_layouts_application_html_slim___2653601344720169588_70352405788560'
+Started GET "/" for 127.0.0.1 at 2018-04-17 12:49:59 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (8.4ms)
+Completed 500 Internal Server Error in 16105ms
+
+
+  
+ActionView::Template::Error (Undefined variable: "$gap-10xl".):
+     5:     meta charset='utf-8'
+     6:     meta name='viewport' content='width=device-width, initial-scale=1.0'
+     7: 
+     8:     = stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload'
+     9:     = javascript_include_tag 'vendor/modernizr', 'data-turbolinks-track': 'reload'
+    10:     = csrf_meta_tag
+    11: 
+  
+app/assets/stylesheets/sections/_index.sass:13
+app/assets/stylesheets/application.sass:10
+app/views/layouts/application.html.slim:8:in `_app_views_layouts_application_html_slim___2653601344720169588_70352767588460'
+Started GET "/" for 127.0.0.1 at 2018-04-17 13:01:02 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (38.7ms)
+Completed 500 Internal Server Error in 8965ms
+
+
+  
+ActionView::Template::Error (File to import not found or unreadable: ./foundationand_overrides.scss.
+Load paths:
+  /Users/miriamlamarre/Desktop/miri_app/app/assets/config
+  /Users/miriamlamarre/Desktop/miri_app/app/assets/fonts
+  /Users/miriamlamarre/Desktop/miri_app/app/assets/images
+  /Users/miriamlamarre/Desktop/miri_app/app/assets/javascripts
+  /Users/miriamlamarre/Desktop/miri_app/app/assets/stylesheets
+  /Users/miriamlamarre/.rvm/gems/ruby-2.5.1/gems/coffee-rails-4.2.2/lib/assets/javascripts
+  /Users/miriamlamarre/.rvm/gems/ruby-2.5.1/gems/foundation-rails-5.4.5.0/vendor/assets/javascripts
+  /Users/miriamlamarre/.rvm/gems/ruby-2.5.1/gems/foundation-rails-5.4.5.0/vendor/assets/stylesheets
+  /Users/miriamlamarre/.rvm/gems/ruby-2.5.1/gems/actioncable-5.1.6/lib/assets/compiled
+  /Users/miriamlamarre/.rvm/gems/ruby-2.5.1/gems/actionview-5.1.6/lib/assets/compiled
+  /Users/miriamlamarre/.rvm/gems/ruby-2.5.1/gems/turbolinks-source-5.1.0/lib/assets/javascripts
+  /Users/miriamlamarre/Desktop/miri_app/app/assets/fonts
+  /Users/miriamlamarre/Desktop/miri_app/node_modules):
+     5:     meta charset='utf-8'
+     6:     meta name='viewport' content='width=device-width, initial-scale=1.0'
+     7: 
+     8:     = stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload'
+     9:     = javascript_include_tag 'vendor/modernizr', 'data-turbolinks-track': 'reload'
+    10:     = csrf_meta_tag
+    11: 
+  
+app/assets/stylesheets/application.sass:7
+app/views/layouts/application.html.slim:8:in `_app_views_layouts_application_html_slim___826831976119813128_70281907355780'
+Started GET "/" for 127.0.0.1 at 2018-04-17 13:01:32 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (3.6ms)
+Completed 500 Internal Server Error in 19137ms
+
+
+  
+ActionView::Template::Error (Undefined variable: "$primary-color".):
+     5:     meta charset='utf-8'
+     6:     meta name='viewport' content='width=device-width, initial-scale=1.0'
+     7: 
+     8:     = stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload'
+     9:     = javascript_include_tag 'vendor/modernizr', 'data-turbolinks-track': 'reload'
+    10:     = csrf_meta_tag
+    11: 
+  
+app/assets/stylesheets/01_settings/_main.sass:15
+app/views/layouts/application.html.slim:8:in `_app_views_layouts_application_html_slim___826831976119813128_70281991848480'
+Started GET "/" for 127.0.0.1 at 2018-04-17 13:09:40 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (11.0ms)
+Completed 500 Internal Server Error in 19769ms
+
+
+  
+ActionView::Template::Error (Undefined variable: "$primary-color".):
+     5:     meta charset='utf-8'
+     6:     meta name='viewport' content='width=device-width, initial-scale=1.0'
+     7: 
+     8:     = stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload'
+     9:     = javascript_include_tag 'vendor/modernizr', 'data-turbolinks-track': 'reload'
+    10:     = csrf_meta_tag
+    11: 
+  
+app/assets/stylesheets/01_settings/_main.sass:13
+app/views/layouts/application.html.slim:8:in `_app_views_layouts_application_html_slim___826831976119813128_70281780748200'
+Started GET "/" for 127.0.0.1 at 2018-04-17 13:10:18 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (3.3ms)
+  Rendered application/_header.html.slim (1.9ms)
+  Rendered application/_footer.html.slim (1.9ms)
+Completed 200 OK in 45840ms (Views: 45837.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-17 13:11:28 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (9.2ms)
+  Rendered application/_header.html.slim (8.4ms)
+  Rendered application/_footer.html.slim (2.0ms)
+Completed 200 OK in 20192ms (Views: 20189.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-17 13:13:34 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (13.8ms)
+  Rendered application/_header.html.slim (2.9ms)
+  Rendered application/_footer.html.slim (2.0ms)
+Completed 200 OK in 25353ms (Views: 25345.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-17 15:01:13 +0200
+Started GET "/" for 127.0.0.1 at 2018-04-17 15:01:13 +0200
+Processing by IndexController#homepage as HTML
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (21.6ms)
+  Rendered index/homepage.html.slim within layouts/application (13.0ms)
+  Rendered application/_header.html.slim (3.1ms)
+  Rendered application/_header.html.slim (0.0ms)
+  Rendered application/_footer.html.slim (2.5ms)
+Completed 200 OK in 54285ms (Views: 53796.3ms)
+
+
+  Rendered application/_footer.html.slim (0.0ms)
+Completed 200 OK in 54308ms (Views: 53873.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-17 15:02:14 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (2.6ms)
+  Rendered application/_header.html.slim (2.3ms)
+  Rendered application/_footer.html.slim (2.7ms)
+Completed 200 OK in 199ms (Views: 197.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-17 15:28:17 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (15.0ms)
+  Rendered application/_header.html.slim (2.4ms)
+  Rendered application/_footer.html.slim (2.6ms)
+Completed 200 OK in 26342ms (Views: 26331.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-17 15:33:45 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (92.1ms)
+  Rendered application/_header.html.slim (2.5ms)
+  Rendered application/_footer.html.slim (2.2ms)
+Completed 200 OK in 19686ms (Views: 19675.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-17 15:44:23 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (15.5ms)
+  Rendered application/_header.html.slim (16.5ms)
+  Rendered application/_footer.html.slim (23.3ms)
+Completed 200 OK in 25723ms (Views: 25715.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-17 15:48:36 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (139.0ms)
+  Rendered application/_header.html.slim (26.7ms)
+  Rendered application/_footer.html.slim (3.6ms)
+Completed 200 OK in 21035ms (Views: 21006.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-17 15:49:24 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (2.2ms)
+  Rendered application/_header.html.slim (2.6ms)
+  Rendered application/_footer.html.slim (2.4ms)
+Completed 200 OK in 426ms (Views: 424.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-17 15:49:41 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (16.2ms)
+  Rendered application/_header.html.slim (2.0ms)
+  Rendered application/_footer.html.slim (2.9ms)
+Completed 200 OK in 20286ms (Views: 20282.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-17 16:45:32 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (16.8ms)
+  Rendered application/_header.html.slim (2.0ms)
+Started GET "/" for 127.0.0.1 at 2018-04-17 16:45:35 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (2.1ms)
+  Rendered application/_header.html.slim (2.0ms)
+  Rendered application/_footer.html.slim (2.3ms)
+Completed 200 OK in 3342ms (Views: 2663.5ms)
+
+
+  Rendered application/_footer.html.slim (2.0ms)
+Completed 200 OK in 748ms (Views: 746.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-17 16:48:46 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (16.5ms)
+  Rendered application/_header.html.slim (2.7ms)
+  Rendered application/_footer.html.slim (2.4ms)
+Completed 200 OK in 25964ms (Views: 25641.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-17 16:49:45 +0200
+Processing by IndexController#homepage as HTML
+  Rendering index/homepage.html.slim within layouts/application
+  Rendered index/homepage.html.slim within layouts/application (2.4ms)
+  Rendered application/_header.html.slim (32.0ms)
+  Rendered application/_footer.html.slim (2.0ms)
+Completed 200 OK in 318ms (Views: 301.7ms)
+
+

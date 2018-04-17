@@ -1,0 +1,21 @@
+doctype html
+html lang='en'
+  head
+    title == content_for?(:title) ? yield(:title) : 'Miri-Brand'
+    meta charset='utf-8'
+    meta name='viewport' content='width=device-width, initial-scale=1.0'
+
+    = stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload'
+    = javascript_include_tag 'vendor/modernizr', 'data-turbolinks-track': 'reload'
+    = csrf_meta_tag
+
+    link[rel="shortcut icon" type="image/x-icon" sizes="32x32" href="assets/favicon-32x32.png"]
+    link[rel="shortcut icon" type="image/x-icon" sizes="96x96" href="assets/favicon-96x96.png"]
+    link[rel="shortcut icon" type="image/x-icon" sizes="16x16" href="assets/favicon-16x16.png"]
+    script[defer src="https://use.fontawesome.com/releases/v5.0.10/js/all.js" integrity="sha384-slN8GvtUJGnv6ca26v8EzVaR9DC58QEwsIk9q1QXdCU8Yu8ck/tL/5szYlBbqmS+" crossorigin="anonymous"]
+
+  body
+    = render 'application/header'
+    == yield
+    = javascript_include_tag 'application'
+    = render 'application/footer'

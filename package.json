@@ -1,0 +1,10 @@
+{
+  "name": "miri_app",
+  "private": true,
+  "dependencies": {
+    "foundation-sites": "^6.4.4-rc1",
+    "graceful-fs": "^4.1.11",
+    "natives": "^1.1.2",
+    "npm": "^5.8.0"
+  }
+}
